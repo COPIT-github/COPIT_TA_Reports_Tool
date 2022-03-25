@@ -75,6 +75,12 @@ npm install
 
 5. Make CI possible.
 
+## Note
+
+1. Please do not sign in with this account(rxcopit) directly and edit, first fork this repository into your personal github, work on changes, raise a pull request and then merge the pull request using this account.
+
+3. Multiple people could be working on this code in future, so we could make respective individuals accountable for their work. If we follow the above workflow we could avoid potential security issues as well by not exposing the COPIT git credentials.
+
 
 
 
